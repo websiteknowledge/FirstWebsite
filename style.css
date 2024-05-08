@@ -29,14 +29,14 @@ ul li {
 ul li a {
   display: block;
   text-decoration: none;
-  font-size: 25px;
+  font-size: 42px;
   font-family: arial;
   color: white;
   padding: 0 20px;
 }
 
 ul li a:hover {
-  color: red;
+  color: orange;
 }
 
 body {
